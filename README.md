@@ -1,2 +1,2 @@
 # lsyk-modalup
-JQuery lightbox/popup/modal by Lsyk4
+Vanilla Javascript (maybe jQuery too) lightbox/popup/modal by Lsyk4
